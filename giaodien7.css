@@ -1,0 +1,38 @@
+.text-red{
+    color: red;
+}
+h1{
+    margin-left: 50px;
+    
+}
+.box{
+    height: 40px;
+    width: 100%;
+
+}
+button{
+    background-color: rgb(55, 112, 236);
+    margin-left: 50px;
+}
+.text{
+    color: ivory;
+}
+td img{
+    height: 140px;
+    width: 90px;
+}
+.box2{
+    height: 20px;
+    width: 100%;
+
+
+}
+.box3{
+    height: 40px;
+    width: 100%;
+
+}
+.table{
+    margin-left: 50px;
+    
+}
